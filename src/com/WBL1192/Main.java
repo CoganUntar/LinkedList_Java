@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        //theList adalah Kelas LinkedList
         LinkedList thelist = new LinkedList();
-
         int pilihan = 0;
 
         do {
