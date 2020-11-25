@@ -1,5 +1,14 @@
 package com.WBL1192;
-
+/*
+* untuk info tambahan tentang linkedlist, bisa dibuka beberapa link ini:
+* https://www.youtube.com/watch?v=njTh_OwMljA - hackerrank
+* https://www.youtube.com/watch?v=_jQhALI4ujg - computerphile
+* geeks for geeks:
+*    https://www.geeksforgeeks.org/data-structures/linked-list/
+*    - single linked list (https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+*    - double linked list (https://www.geeksforgeeks.org/doubly-linked-list/)
+*
+* */
 public class LinkedList {
     private Node Head;
 
